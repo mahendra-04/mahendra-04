@@ -10,6 +10,10 @@
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=mahendra-04&theme=github-dark&hide_border=true)
 
+
+<!-- GitHub Trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=mahendra-04&theme=darkhub)
+
 <!-- GitHub Stats -->
 ![Mahendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendra-04&show_icons=true&theme=github_dark)
 
@@ -18,8 +22,6 @@
 
 
 
-<!-- GitHub Trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=mahendra-04&theme=darkhub)
 
 ![](https://komarev.com/ghpvc/?username=mahendra-04&color=green)
 
