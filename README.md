@@ -35,8 +35,7 @@ I'm a passionate learner and web developer interested in building beautiful and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
-<!-- Text version for accessibility -->
-HTML • CSS • JavaScript • Java • SQL
+
 
 ## 📊 GitHub Stats
 
