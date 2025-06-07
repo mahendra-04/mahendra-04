@@ -1,4 +1,6 @@
-- 👋 Hi, I'm Mahendra  
+👋 Hi, I'm Mahendra  
+
+
 - 💻 I write code that sometimes works on the first try  
 - 🛠️ Always learning new tricks (and occasionally unlearning old bugs)  
 - 🔍 Debugging: 50% skill, 50% luck  
