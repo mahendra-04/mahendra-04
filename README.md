@@ -1,7 +1,8 @@
-## Hi 👋, I'm Mahendra
-
-I write code, make websites, and occasionally fix bugs without breaking something else.  
-If it works, it was definitely on purpose!
+- 👋 Hi, I'm Mahendra  
+- 💻 I write code that sometimes works on the first try  
+- 🛠️ Always learning new tricks (and occasionally unlearning old bugs)  
+- 🔍 Debugging: 50% skill, 50% luck  
+- ☕ Runs on caffeine and Stack Overflow  
 
 ## 🙋‍♂️ About Me
 
