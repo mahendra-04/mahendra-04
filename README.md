@@ -1,9 +1,7 @@
-# Hi 👋, I'm Mahendra
+## Hi 👋, I'm Mahendra
 
-Welcome to my GitHub profile!  
-I'm a passionate learner and web developer interested in building beautiful and functional web applications.
-
----
+I write code, make websites, and occasionally fix bugs without breaking something else.  
+If it works, it was definitely on purpose!
 
 ## 🙋‍♂️ About Me
 
