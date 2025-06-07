@@ -7,11 +7,12 @@ I'm a passionate learner and web developer interested in building beautiful and 
 
 ## 🙋‍♂️ About Me
 
-- 🚀 I love creating projects with **HTML, CSS, and JavaScript**
-- 🌱 I’m currently learning **React** and exploring more about web technologies
-- 💬 Ask me about anything web development related!
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess
+- 🌏 Originally from India, currently residing in Canada as an international student
+- 🎓 Pursuing a program in Computer Engineering Technology
+- 👨‍💻 Aspiring web developer with a strong interest in building innovative and functional web applications
+- ⚽ Enjoy playing soccer and games such as Clash of Clans and GTA 5 in my leisure time
+- 🤝 Prefer in-person or video call interactions over text-based communication
+- 📞 For important matters, please consider reaching out via a call, as my inbox may not always be monitored
 
 ---
 
