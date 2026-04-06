@@ -1,95 +1,79 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Mahendra</h1>
+Mahendra Ranwa
 
-<p align="center">
-💻 Writing code that works<br>
-🛠️ Building and improving web applications<br>
-🔍 Debugging and refining code quality<br>
-☕ Caffeine + Documentation
-</p>
+Computer Engineering Technology Student | IT Support | Embedded Systems
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg" alt="snake">
-</div>
+Brampton, Ontario, Canada  
++1 (437) 244-5424  
+mranwa100@gmail.com  
+LinkedIn: https://www.linkedin.com/in/mahendra-ranwa-092396290/
 
 ---
 
-## 🗂 About Me
+About
 
-- 🌍 India → Canada (international student)  
-- 🎓 Computer Engineering Technology  
-- 💻 Front-end: HTML, CSS, JavaScript  
-- ⚛️ Currently learning React, Git  
-- 🛠️ Project-based learning approach  
-- ⚽ Soccer player, gamer (Clash of Clans, GTA V)  
-- 📞 Prefers direct communication (call)  
+Computer Engineering Technology student at Sheridan College with hands-on experience in embedded systems, microcontrollers, and real-time applications. Skilled in C programming, STM32, PIC24, and hardware-software integration.
+
+Experience in technical support, system troubleshooting, and working with hardware and software environments. Strong foundation in networking basics, Linux/UNIX systems, and IT service workflows. Actively building skills for entry-level IT support and help desk roles.
 
 ---
 
-## 🚀 Present Learning
+Skills
 
-- 🖥️ Responsive, accessible web apps  
-- 📚 JavaScript deep dive  
-- ⚛️ React ecosystem fundamentals  
-- 🔄 Git/GitHub workflows  
-- 🌐 REST API integration  
-- 🧹 Clean code and reusable components  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
+Programming: C, Java, Python  
+Embedded Systems: STM32, PIC24, Arduino  
+Tools: MPLAB X, STM32CubeMX, Git, Anaconda, AutoCAD  
+Hardware: Circuit design, debugging, sensors, ADC/DAC, PCB soldering  
+Systems: Linux/UNIX, Networking basics  
+Standards: IPC-A-610, IPC J-STD-001  
 
 ---
 
-## 🌐 Socials
+Experience
 
-<p align="left">
-  <a href="https://github.com/mahendra-04"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/mahendra-ranwa-092396290/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/_.mahendra._04/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:mranwa100@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
+Support Technician – Sheridan College IT Centre  
+Apr 2024 – Aug 2024  
+- Provided technical support for hardware, software, and network issues  
+- Installed and configured lab systems and academic software  
+- Diagnosed and resolved system faults  
+- Assisted users with OS, connectivity, and applications  
 
----
+Web Technician (Volunteer) – U+ Toastmasters Academy  
+Sep 2025 – Mar 2026  
+- Managed website updates and digital content  
+- Maintained system reliability  
+- Supported technical operations  
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mahendra-04&theme=github_dark&show_icons=true&count_private=true" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=mahendra-04&theme=github-dark&hide_border=false" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahendra-04&theme=darkhub" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendra-04&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
+Tutor (Electronics Fabrication) – Sheridan College  
+May 2023 – Dec 2023  
+- Assisted with PCB assembly and soldering  
+- Helped troubleshoot circuit faults  
+- Guided students in lab work  
 
 ---
 
-## 👁️ Profile Views
+Projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahendra-04&color=green" alt="Profile Views"/>
-</p>
+Digital Multimeter Fabrication  
+- Built and tested a working DMM circuit  
+- Performed PCB soldering and validation  
+
+Embedded Control & Signal Processing System (STM32)  
+- Worked with GPIO, timers, ADC, interrupts, PWM  
+- Designed timer systems using PSC and ARR  
+- Implemented interrupt-driven systems  
+
+Embedded Systems Application (PIC24)  
+- Integrated ADC, UART, timers, GPIO  
+- Processed real-time data and communication  
+
+Smart Car System (Raspberry Pi)  
+- Built a 3-wheel robot with sensors and camera  
+- Implemented control logic and obstacle detection  
+
+---
+
+Certifications
+
+CompTIA A+ (Core 1 completed, Core 2 in progress)  
+IT Service Desk: Service Management (2026)  
+Computer Components and Peripherals for IT Technicians (2026)
