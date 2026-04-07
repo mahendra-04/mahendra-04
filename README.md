@@ -1,114 +1,91 @@
 <h1 align="center">Mahendra Ranwa</h1>
-<h3 align="center">Computer Engineering Technology Student | IT Support | Embedded Systems</h3>
+<h3 align="center">Computer Engineering Technology • IT Support • Embedded Systems</h3>
 
 <p align="center">
-  Sheridan College (Jan 2023 – Apr 2026) • Brampton, ON<br>
+  Brampton, ON • Sheridan College (Jan 2023 – Apr 2026)<br>
   <a href="mailto:mranwa100@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/mahendra-ranwa-092396290/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mahendra-ranwa-092396290/">LinkedIn</a> •
+  <a href="https://github.com/mahendra-04">GitHub</a> •
+  <a href="https://mahendra-04.github.io/portfolio-website/">Website</a>
 </p>
 
 ---
 
-## About Me
+## Profile
 
-Computer Engineering Technology student at Sheridan College (Jan 2023 – Apr 2026) with hands-on experience in embedded systems, microcontrollers, real-time applications, and technical support. Skilled in C programming, STM32, PIC24, and hardware-software integration.
+Computer Engineering Technology student with hands-on experience in embedded systems, microcontrollers, and real-time applications. Strong in C programming, STM32, PIC24, and hardware-software integration.
 
-Experience in technical support, system troubleshooting, and working with hardware and software environments. Strong foundation in networking basics, Linux/UNIX systems, and IT service workflows. Focused on building practical skills for entry-level IT support and help desk roles.
+Experience in IT support, system troubleshooting, and lab environment setup. Familiar with Linux/UNIX systems, networking basics, and service workflows. Focused on entry-level IT support and help desk roles.
 
 ---
 
-## Technical Skills
+## Core Skills
 
-### Programming
-- C
-- Java
-- Python
+**Programming**
+- C, Java, Python  
 
-### Embedded Systems
-- STM32
-- PIC24
-- Arduino
-- GPIO
-- Timers
-- ADC/DAC
-- PWM
-- UART
-- Interrupts
+**Embedded Systems**
+- STM32, PIC24, Arduino  
+- GPIO, Timers, ADC/DAC, PWM, UART, Interrupts  
 
-### Tools
-- MPLAB X
-- STM32CubeMX
-- Git
-- Anaconda
-- AutoCAD
+**Tools**
+- MPLAB X, STM32CubeMX, Git, Anaconda, AutoCAD  
 
-### Hardware
-- Circuit Design
-- Debugging
-- Sensors
-- PCB Soldering
-- Hardware Testing
-- Real-Time System Integration
+**Hardware**
+- Circuit Design, Debugging, Sensors  
+- PCB Soldering, Testing, Real-Time Integration  
 
-### Systems
-- Linux / UNIX
-- Networking Basics
-- Technical Troubleshooting
-- System Configuration
+**Systems**
+- Linux / UNIX  
+- Networking Basics  
+- Technical Troubleshooting  
 
-### Standards
-- IPC-A-610
-- IPC J-STD-001
+**Standards**
+- IPC-A-610, IPC J-STD-001  
 
 ---
 
 ## Projects
 
-### Digital Multimeter (DMM) Fabrication
-- Assembled and soldered a functional digital multimeter circuit
-- Tested voltage, current, and resistance measurements
-- Diagnosed and corrected circuit faults during assembly
+### Embedded Control & Signal Processing (STM32)
+- Built real-time embedded applications using GPIO, timers, ADC, PWM, and interrupts  
+- Designed precise timing systems using PSC and ARR  
+- Implemented interrupt-driven control for responsive systems  
 
-### Embedded Control and Signal Processing System  
-**Tech:** C, STM32 (Nucleo L476)
-- Developed embedded applications using GPIO, timers, ADC, interrupts, PWM, and input capture
-- Designed timer-based systems for accurate delays using PSC and ARR calculations
-- Implemented interrupt-driven control for real-time system response
+### Embedded System (PIC24 – Explorer 16)
+- Developed multi-module system with ADC, UART, timers, and GPIO  
+- Processed sensor data and transmitted via UART  
+- Implemented LED control with timing logic  
 
-### Embedded Systems Application  
-**Tech:** C, PIC24 (Explorer 16)
-- Built a multi-module system integrating ADC, timers, interrupts, GPIO, and UART
-- Processed real-time sensor data and transmitted formatted output through UART
-- Implemented LED control logic with timing and pattern generation
+### Digital Multimeter Fabrication
+- Assembled and soldered full DMM circuit  
+- Tested voltage, current, resistance  
+- Diagnosed and corrected circuit-level faults  
 
-### Smart Car System (3-Wheel Buggy)  
-**Tech:** Raspberry Pi, Python
-- Built and assembled a smart car using motors, sensors, camera, and control modules
-- Configured GPIO for motor control and sensor interfacing
-- Implemented obstacle awareness and modular movement control logic
+### Smart Car System (Raspberry Pi)
+- Built 3-wheel robotic system with sensors and camera  
+- Configured GPIO for motor and sensor control  
+- Implemented obstacle detection and modular control logic  
 
 ---
 
 ## Experience
 
-### Support Technician | Sheridan College IT Centre  
-**Apr 2024 – Aug 2024**
-- Provided technical support for hardware, software, and network issues  
-- Installed and configured lab systems and academic software  
-- Diagnosed and resolved system faults to reduce downtime  
-- Assisted users with OS, connectivity, and application troubleshooting  
+**Support Technician — Sheridan College IT Centre**  
+Apr 2024 – Aug 2024  
+- Resolved hardware, software, and network issues  
+- Installed and configured lab systems  
+- Reduced downtime through troubleshooting  
 
-### Web Technician (Volunteer) | U+ Toastmasters Academy  
-**Sep 2025 – Mar 2026**
-- Managed website updates and digital content  
-- Maintained system reliability and supported technical operations  
-- Worked with teams to improve digital communication workflows  
+**Web Technician (Volunteer) — U+ Toastmasters Academy**  
+Sep 2025 – Mar 2026  
+- Managed website updates and content  
+- Maintained system reliability  
 
-### Tutor (Electronics Fabrication) | Sheridan College  
-**May 2023 – Dec 2023**
-- Assisted students with soldering, PCB assembly, and component placement  
-- Guided troubleshooting of circuit faults using lab tools and measurement equipment  
-- Supported hands-on lab sessions and safe fabrication practices  
+**Tutor — Electronics Fabrication (Sheridan College)**  
+May 2023 – Dec 2023  
+- Guided PCB soldering and circuit debugging  
+- Supported lab sessions and troubleshooting  
 
 ---
 
@@ -128,16 +105,11 @@ Jan 2023 – Apr 2026
 
 ---
 
-## Current Focus
+## Focus
 
-- IT Support / Help Desk roles  
-- Troubleshooting and support workflows  
-- Embedded systems and microcontroller projects  
-- Networking and system administration fundamentals  
+- IT Support / Help Desk  
+- System Troubleshooting  
+- Embedded Systems Development  
+- Networking Fundamentals  
 
 ---
-
-## Contact
-
-- **Email:** mranwa100@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/mahendra-ranwa-092396290/
